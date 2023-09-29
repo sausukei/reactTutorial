@@ -1,4 +1,4 @@
-# こっからプレイ→[https://reacttutorial.pages.dev/]
+# [こっからプレイ](https://reacttutorial.pages.dev/)
 
 # Getting Started with Create React App
 
